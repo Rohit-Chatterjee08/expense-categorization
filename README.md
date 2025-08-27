@@ -4,7 +4,7 @@ An intelligent web application that uses Natural Language Processing (NLP) to au
 
 ## Live Demo
 
-You can try the live application here: **[Your Hugging Face Space URL]**
+You can try the live application here: **https://huggingface.co/spaces/chatterjeerohit08/expense-categorization**
 
 ---
 
